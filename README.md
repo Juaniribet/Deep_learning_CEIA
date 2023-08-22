@@ -1,5 +1,6 @@
 # Deep_learning_CEIA
+----------------------------------------------
 Examen Aprendizaje profundo - CEIA - Cohorte 10
 
-
-Alumno: Juan Ignacio Ribet
+<br><br/>
+<u>Alumno:<u/> Juan Ignacio Ribet
